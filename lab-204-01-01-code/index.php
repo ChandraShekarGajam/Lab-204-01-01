@@ -12,9 +12,9 @@
 		<!-- Banner -->
 			<section id="banner">
 				<h2>Developing Solution with Azure LAB</h2>
-<p class="ui header center"><font color="white">Server IP Address <?=
+<p class="ui header center"><font color="white">172.29.24.130<?=
 $_SERVER['SERVER_ADDR'] ?></p>
-				172.29.24.130
+				
 
 				<ul class="actions">
 					<li><a href="#" class="button special big">Get Started</a></li>
